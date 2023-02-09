@@ -5,7 +5,7 @@
 `
 
 ## Prerequisites 🤖
-Install the following libraries using pip:
+Install the following libraries using `pip`:
 - `pydub`
 - `noisereduce`
 - `numpy`
