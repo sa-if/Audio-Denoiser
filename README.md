@@ -28,7 +28,7 @@ Install the following libraries using `pip`:
 ## Note 🔉
 - ` The results may vary depending on the input audio file. The user can adjust the parameters in the reduce_noise function for better results.`
 
-## License 🪪
+## License ✔
 The project is licensed under Apache-2.0 license license. See the `license` file for details.
 
 ## Authors 👦🏻
